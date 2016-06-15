@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>subject_id</key>
+		<string>26164808</string>
+		<key>subject_name</key>
+		<string>科技相对论</string>
+	</dict>
+	<dict>
+		<key>subject_id</key>
+		<string>26004233</string>
+		<key>subject_name</key>
+		<string>Tips</string>
+	</dict>
+	<dict>
+		<key>subject_id</key>
+		<string>25964916</string>
+		<key>subject_name</key>
+		<string>四大旗舰对决</string>
+	</dict>
+	<dict>
+		<key>subject_id</key>
+		<string>25926899</string>
+		<key>subject_name</key>
+		<string>访谈</string>
+	</dict>
+	<dict>
+		<key>subject_id</key>
+		<string>22523665</string>
+		<key>subject_name</key>
+		<string>数码家电</string>
+	</dict>
+</array>
+</plist>
